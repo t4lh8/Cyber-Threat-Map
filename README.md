@@ -1,6 +1,6 @@
 # 🌐 Cyber Threat Map
 
-![Tests](https://github.com/t4lh8/cyber-threat-map/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/t4lh8/Cyber-Threat-Map/actions/workflows/tests.yml/badge.svg)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-yellow)
 ![D3.js](https://img.shields.io/badge/D3.js-v7-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -8,7 +8,7 @@
 A real-time **cyber attack map** visualization built with **D3.js** and the **HTML5 Canvas**,
 inspired by threat maps from security vendors such as Kaspersky, Check Point and Fortinet.
 
-**🔴 Live demo:** https://t4lh8.github.io/cyber-threat-map/
+**🔴 Live demo:** https://t4lh8.github.io/Cyber-Threat-Map/
 
 ![Cyber Threat Map screenshot](assets/screenshot.png)
 
@@ -47,8 +47,8 @@ examples and never belong to a real device, so the map never points at a real IP
 No build step or install is needed.
 
 ```bash
-git clone https://github.com/t4lh8/cyber-threat-map.git
-cd cyber-threat-map
+git clone https://github.com/t4lh8/Cyber-Threat-Map.git
+cd Cyber-Threat-Map
 ```
 
 Then open `index.html` in your browser. An internet connection is needed to load D3.js and the world map data.
