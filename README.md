@@ -62,7 +62,7 @@ node --test
 ## Project structure
 
 ```
-cyber-threat-map/
+Cyber-Threat-Map/
 ├── index.html
 ├── css/style.css
 ├── js/
